@@ -14,7 +14,7 @@ Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki
 
 <html><div class="gallery" align="center"></html>
 <html>
-<h3>Research</h3><br/></html>
+<h3>CNV associated Figures</h3><br/></html>
 <img onmouseover="preview.src=img1.src" id="img1" src="img/fig_2 copy.jpeg" alt="Image Not Loaded"/>
 <img onmouseover="preview.src=img2.src" id="img2" src="img/fig_6 copy.jpeg" alt="Image Not Loaded"/>
 
