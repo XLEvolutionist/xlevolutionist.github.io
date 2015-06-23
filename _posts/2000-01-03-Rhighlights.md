@@ -5,7 +5,7 @@ color: black
 fa-icon: laptop
 ---
 
-### Copy-number variants in wild maize
+### Copy-number variants (CNVs) in wild maize
 
 
 [GenWin](http://cran.r-project.org/web/packages/GenWin/index.html){:target="_blank"} is available on CRAN, the Comprehensive R Archive Network.
@@ -13,7 +13,7 @@ fa-icon: laptop
 <div style="float: left; padding-right: 15px">
     <a href="img/fig_2 copy.jpeg"><img src="img/fig_2 copy.jpeg" alt="deletion" title="deltion" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
 </div>
-<br/>
+I am currently developing a novel CNV calling pipeline, currently in testing using a population of wild maize. Preliminary data (see figures below) suggest that the pipeline is working well. 
 
 <div style="float: left; padding-right: 15px">
     <a href="img/fig_6 copy.jpeg"><img src="img/fig_6 copy.jpeg" alt="TD" title="TD" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
