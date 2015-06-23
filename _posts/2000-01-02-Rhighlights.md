@@ -19,7 +19,7 @@ Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki
     
 </div>      
 <br>        
-</br> 
+
        
 ### Gene loss in the ancient sub-genomes of cotton
 
