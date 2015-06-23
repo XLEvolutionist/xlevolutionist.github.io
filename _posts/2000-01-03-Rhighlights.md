@@ -14,8 +14,9 @@ fa-icon: laptop
     <a href="img/fig_2 copy.jpeg"><img src="img/fig_2 copy.jpeg" alt="deletion" title="deltion" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
 </div>
 <br/>
+
 <div style="float: left; padding-right: 15px">
-    <a href="img/fig_6 copy.jpeg"><img src="img/fig_6 copy.jpeg" alt="deletion" title="deltion" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
+    <a href="img/fig_6 copy.jpeg"><img src="img/fig_6 copy.jpeg" alt="TD" title="TD" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
 </div>
 
 <script>
