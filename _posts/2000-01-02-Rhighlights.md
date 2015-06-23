@@ -18,9 +18,9 @@ Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki
 <img onmouseover="preview.src=img1.src" id="img1" src="img/fig_2 copy.jpeg" alt="Image Not Loaded"/>
 <img onmouseover="preview.src=img2.src" id="img2" src="img/fig_6 copy.jpeg" alt="Image Not Loaded"/>
 
-<div class="preview" align="center">
-<img id="preview" src="img/fig_2 copy.jpeg" alt="No Image Loaded"/>
-</div>
+%<div class="preview" align="center">
+%<img id="preview" src="img/fig_2 copy.jpeg" alt="No Image Loaded"/>
+%</div>
        
 <div style="float: left; padding-right: 15px">
     <a href="img/fig_2 copy.jpeg"><img src="img/fig_2 copy.jpeg" alt="deletion" title="deltion" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>  
