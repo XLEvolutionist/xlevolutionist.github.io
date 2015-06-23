@@ -2,12 +2,11 @@
 title: "publications"
 bg:	white
 color: black
-fa-icon: university
-style: left
----
-.icon-university {
+fa-icon: university{
   color: black;
 }
+style: left
+---
 
 ### In peer reviewed journals
 
