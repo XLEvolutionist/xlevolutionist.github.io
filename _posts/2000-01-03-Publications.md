@@ -2,7 +2,7 @@
 title: "publications"
 bg:	white
 color: black
-fa-icon: university
+fa-icon: <i class="university" style="color:black"></i>
 style: left
 ---
 
