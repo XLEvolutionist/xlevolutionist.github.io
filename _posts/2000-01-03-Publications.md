@@ -2,10 +2,12 @@
 title: "publications"
 bg:	white
 color: black
-fa-icon: <i class="university" style="color:black"></i>
+fa-icon: university
 style: left
 ---
-
+.fa-cog {
+  color: black;
+}
 
 ### In peer reviewed journals
 
