@@ -17,6 +17,8 @@ Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki
     <a href="img/fig_6 copy.jpeg"><img src="img/fig_6 copy.jpeg" alt="TD" title="TD" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
 </div>
 
+</br>
+
 ### Gene loss in the ancient sub-genomes of cotton
 
 
