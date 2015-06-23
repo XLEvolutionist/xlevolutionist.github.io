@@ -1,6 +1,6 @@
 ---
 title: "research highlights"
-bg: orange
+bg: silver
 color: black
 fa-icon: laptop
 ---
@@ -16,6 +16,10 @@ Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki
     <a href="img/fig_2 copy.jpeg"><img src="img/fig_2 copy.jpeg" alt="deletion" title="deltion" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
     <a href="img/fig_6 copy.jpeg"><img src="img/fig_6 copy.jpeg" alt="TD" title="TD" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
 </div>
+
+### Gene loss in the ancient sub-genomes of cotton
+
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
