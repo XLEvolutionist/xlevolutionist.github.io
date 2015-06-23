@@ -236,6 +236,7 @@ nav ul li:hover, nav ul li.active {
   display:block;
   z-index:6;
   width:240px;
+  color: black;
 }
 
 .sectiondivider.imaged {
