@@ -221,6 +221,7 @@ nav ul li:hover, nav ul li.active {
   font-size: 130px;
   position: static;
   margin-top: -8px;
+  color: black;
 }
 .sectiondivider .fa-circle { color: #fff; }
 
