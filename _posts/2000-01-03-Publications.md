@@ -4,7 +4,7 @@ bg:	white
 color: black
 fa-icon: university
 color: black
-style: left
+style: centre
 ---
 
 ### In peer reviewed journals
