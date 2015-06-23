@@ -5,10 +5,9 @@ color: black
 fa-icon: university
 style: left
 ---
-<a class="my-university" href="/users/edit">
-    <i class="icon-univeristy"></i>
-    Edit profile
-</a>
+.icon-university {
+  color: black;
+}
 
 ### In peer reviewed journals
 
