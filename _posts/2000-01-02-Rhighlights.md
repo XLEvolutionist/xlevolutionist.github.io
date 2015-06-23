@@ -12,7 +12,7 @@ I am currently developing a novel CNV calling pipeline, currently in testing. Pr
 Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki/Tajima's_D) over regions where CNV segregate differ from the background "genome-wide" level.
 
 
-<Script>
+<script>
 var img_urls = new Array();
 img_urls[0] = "img/fig_2 copy.jpeg ";
 img_urls[1] = "img/fig_6 copy.jpeg ";
