@@ -12,8 +12,8 @@ I am currently developing a novel CNV calling pipeline, currently in testing. Pr
 Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki/Tajima's_D) over regions where CNV segregate differ from the background "genome-wide" level.
        
 <div style="padding-right: 15px">
-    <a href="img/fig_2 copy.jpeg"><img src="img/fig_2 copy.jpeg" alt="deletion" title="chr 6 deletion" width="200" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>  
-    <a href="img/fig_6 copy.jpeg"><img src="img/fig_6 copy.jpeg" alt="TD" title="TD across the genome" width="200" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>      
+    <a href="img/fig_2 copy.jpeg"><img src="img/fig_2 copy.jpeg" alt="deletion" title="chr 6 deletion" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>  
+    <a href="img/fig_6 copy.jpeg"><img src="img/fig_6 copy.jpeg" alt="TD" title="TD across the genome" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>      
 </div>   
 
 <br/> 
@@ -24,7 +24,7 @@ Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki
 Previous work has examined gene loss following ancient whole genome duplication (WGD; sometimes called [polyploidy](https://en.wikipedia.org/wiki/Polyploid) in the cotton lineage. I showed that gene loss (sometimes called fractionation) following WGD is ongoing and bias between the duplicate sub-genomes. I further suggested that this process is the result of differing recombination rates between sub-genomes. Read the full story [here](http://mbe.oxfordjournals.org/content/32/4/1063).
 
 <div style="padding-right: 15px">
-    <a href="img/sRNA_TE.tiff"><img src="img/sRNA_TE.tiff" alt="siRNAs" title="siRNA is the ancient sub-genomes of cotton" width="200" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>        
+    <a href="img/sRNA_TE.tiff"><img src="img/sRNA_TE.tiff" alt="siRNAs" title="siRNA is the ancient sub-genomes of cotton" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>        
 </div> 
 
 <script>
