@@ -1,7 +1,7 @@
 ---
 title: "publications"
-bg: "#63BD2F"
-color: gray
+bg:	gray
+color: black
 fa-icon: university
 style: left
 ---
