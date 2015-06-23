@@ -5,9 +5,7 @@ color: black
 fa-icon: university
 style: left
 ---
-.fa-cog {
-  color: black;
-}
+<i class="icon-cog blackiconcolor">
 
 ### In peer reviewed journals
 
