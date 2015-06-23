@@ -10,10 +10,6 @@ fa-icon: laptop
 
 I am currently developing a novel CNV calling pipeline, currently in testing. Preliminary data (see figures below) suggest that the pipeline is working well and we have identified a ~10 MB deletion on chromosome 6 segregating in a wild population of maize (otherwise known as teosinte). 
 Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki/Tajima's_D) over regions where CNV segregate differ from the background "genome-wide" level.
-
-<div class="preview" align="center">
-<img id="preview" src="img/fig_2 copy.jpeg" alt="No Image Loaded"/>
-</div>
        
 <div style="float: left; padding-right: 15px">
     <a href="img/fig_2 copy.jpeg"><img src="img/fig_2 copy.jpeg" alt="deletion" title="deltion" width="400" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>  
