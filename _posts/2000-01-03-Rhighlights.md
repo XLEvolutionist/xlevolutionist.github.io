@@ -10,6 +10,9 @@ fa-icon: laptop
 
 [GenWin](http://cran.r-project.org/web/packages/GenWin/index.html){:target="_blank"} is available on CRAN, the Comprehensive R Archive Network.
 
+<div style="float: left; padding-right: 15px">
+    <a href="img/fig_2 copy.jpeg"><img src="img/fig_2 copy.jpeg" alt="deletion" title="deltion" width="200" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
+</div>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
