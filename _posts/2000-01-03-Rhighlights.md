@@ -1,5 +1,5 @@
 ---
-title: "research highlights"
+title: "research\nhighlights"
 bg: orange
 color: black
 fa-icon: laptop
