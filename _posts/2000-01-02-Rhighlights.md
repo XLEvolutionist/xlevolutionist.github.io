@@ -5,6 +5,10 @@ color: black
 fa-icon: laptop
 runtime: shiny
 ---
+figure { display: table; }
+
+
+figcaption { display: table-caption; caption-side: bottom ; }
 
 ### Copy-number variants (CNVs) in wild maize
 
