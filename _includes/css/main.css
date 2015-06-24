@@ -331,3 +331,10 @@ nav ul li:hover, nav ul li.active {
         }
     }
 }
+
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    background: #fff;
+    padding: 0 5px 5px;
+}​​
