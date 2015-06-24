@@ -6,7 +6,6 @@ fa-icon: laptop
 runtime: shiny
 ---
 
-
 ### Copy-number variants (CNVs) in wild maize
 
 
