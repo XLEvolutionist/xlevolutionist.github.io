@@ -3,6 +3,7 @@ title: "research highlights"
 bg: silver
 color: black
 fa-icon: laptop
+runtime: shiny
 ---
 
 ### Copy-number variants (CNVs) in wild maize
@@ -22,6 +23,22 @@ Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki
 ### The ancient sub-genomes of cotton  
 
 Previous work has examined gene loss following ancient whole genome duplication (WGD; sometimes called [polyploidy](https://en.wikipedia.org/wiki/Polyploid)) in the cotton lineage. I showed that gene loss (sometimes called fractionation) following WGD is ongoing and bias between the duplicate sub-genomes. I further suggested that this process is the result of differing recombination rates between sub-genomes. Read the full story [here](http://mbe.oxfordjournals.org/content/32/4/1063).
+
+<div style="float;padding-right: 15px;text-align:center">
+    <a href="img/sRNA_TE.tiff"><img src="img/sRNA_TE.tiff" alt="siRNAs" title="siRNA is the ancient sub-genomes of cotton" width="600" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>        
+</div> 
+
+```{r echo = FALSE}
+selectInput("n_breaks", label = "Number of bins:",
+              choices = c(10, 20, 35, 50), selected = 20)
+  
+sliderInput("bw_adjust", label = "Bandwidth adjustment:",
+              min = 0.2, max = 2, value = 1, step = 0.2)
+```
+
+### Repetitive DNA loss in tobacco  
+
+My PhD work focused on the 
 
 <div style="float;padding-right: 15px;text-align:center">
     <a href="img/sRNA_TE.tiff"><img src="img/sRNA_TE.tiff" alt="siRNAs" title="siRNA is the ancient sub-genomes of cotton" width="600" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>        
