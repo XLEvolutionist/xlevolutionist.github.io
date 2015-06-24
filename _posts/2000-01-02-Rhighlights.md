@@ -29,6 +29,9 @@ Previous work has examined gene loss following ancient whole genome duplication 
 	<figcaption>Exemplar WGD in the history of the flowering plants and the syntenic relationship between regions of the cotton and chocolate genome.</figcaption>        
 </div>  
 
+<br/> 
+<br/>
+
 <div style="float;padding-right: 15px;text-align:center">
  <a href="img/sRNA_TE.tiff"><img src="img/sRNA_TE.tiff" alt="siRNAs" title="siRNA is the ancient sub-genomes of cotton" width="600" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
  <figcaption>small RNA molecules target the most fractionated of the duplicate cotton genomes.</figcaption>
