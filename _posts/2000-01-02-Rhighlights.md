@@ -32,7 +32,9 @@ Previous work has examined gene loss following ancient whole genome duplication 
 
 Check out this simple genetic drift simulator:
 
-<object data=https://xlevolutionist.shinyapps.io/shiny_drift width="600" height="400"> <embed src=https://xlevolutionist.shinyapps.io/shiny_drift width="600" height="400"> </embed> Error: Embedded data could not be displayed. </object>
+<iframe src="https://xlevolutionist.shinyapps.io/shiny_drift" width="100%" height="300">
+  <p>Your browser does not support iframes.</p>
+</iframe>
 
 ### Repetitive DNA loss in tobacco  
 
