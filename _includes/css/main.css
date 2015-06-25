@@ -331,5 +331,5 @@ nav ul li:hover, nav ul li.active {
         }
     }
 }
-
-​
+a img { display:none; }
+a:hover img { display:block; }​
