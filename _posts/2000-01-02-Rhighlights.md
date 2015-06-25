@@ -32,7 +32,7 @@ Previous work has examined gene loss following ancient whole genome duplication 
 
 Check out this simple genetic drift simulator:
 
-<iframe src="https://xlevolutionist.shinyapps.io/shiny_drift" width="100%" height="660">
+<iframe src="https://xlevolutionist.shinyapps.io/shiny_drift" width="100%" height="750">
   <p>Your browser does not support iframes.</p>
 </iframe>
 
