@@ -11,6 +11,8 @@ style: centre
 
 **2015**
 
+<a href="#">Required text<img src="img/persistance.jpeg" /></a>
+
 Gong, L., R. E. Masonbrink, C. E. Grover, **S. Renny-Byfield** and J. F. Wendel (2015). ["A Cluster of Recently Inserted Transposable Elements Associated with siRNAs in."](https://dl.sciencesocieties.org/publications/tpg/pdfs/0/0/plantgenome2014.11.0088) The Plant Genome.
 
 **Renny-Byfield, S.**, L. Gong, J. P. Gallagher and J. F. Wendel (2015). [!["Persistence of Subgenomes in Paleopolyploid Cotton after 60 My of Evolution."](img/persistance.jpeg)](http://mbe.oxfordjournals.org/content/32/4/1063) Molecular biology and evolution 32(4): 1063-1071.
