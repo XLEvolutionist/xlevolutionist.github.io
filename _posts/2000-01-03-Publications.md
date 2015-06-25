@@ -11,7 +11,7 @@ style: centre
 
 **2015**
 
-<a href="#">test again<img src="img/persistance.jpeg" width="50" /></a>
+<a href="#">test again<img src="img/persistance.jpeg" width="350" /></a>
 
 Gong, L., R. E. Masonbrink, C. E. Grover, **S. Renny-Byfield** and J. F. Wendel (2015). ["A Cluster of Recently Inserted Transposable Elements Associated with siRNAs in."](https://dl.sciencesocieties.org/publications/tpg/pdfs/0/0/plantgenome2014.11.0088) The Plant Genome.
 
