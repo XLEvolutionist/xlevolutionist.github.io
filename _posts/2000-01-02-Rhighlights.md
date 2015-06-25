@@ -28,7 +28,11 @@ Previous work has examined gene loss following ancient whole genome duplication 
     <a href="img/sRNA_TE.tiff"><img src="img/sRNA_TE.tiff" alt="siRNAs" title="siRNA is the ancient sub-genomes of cotton" width="600" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>        
 </div> 
 
+### Genetic Drift Simulations
 
+Check out this simple genetic drift simulator:
+
+<object data=https://xlevolutionist.shinyapps.io/shiny_drift width="600" height="400"> <embed src=http://www.web-source.net width="600" height="400"> </embed> Error: Embedded data could not be displayed. </object>
 
 ### Repetitive DNA loss in tobacco  
 
