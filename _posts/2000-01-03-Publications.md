@@ -43,13 +43,15 @@ Matyasek, R., **S. Renny-Byfield**, J. Fulnecek, J. Macas, M.-A. Grandbastien, R
 
 Kovarik, A., **S. Renny-Byfield** and A. R. Leitch (2011). Evolutionary implications of genome and karyotype restructuring inNicotiana tabacum. L. Polyploidy and Genome Evolution. P. S. Soltis and D. E. Soltis. New York, Springer: 209-224.
 
-**Renny-Byfield, S.**, M. Chester, A. Kovařík, S. C. Le Comber, M.-A. Grandbastien, M. Deloger, R. A. Nichols, J. Macas, P. Novák, M. W. Chase and A. R. Leitch (2011). ["Next generation sequencing reveals genome downsizing in allotetraploidNicotiana tabacum, predominantly through the elimination of paternally derived repetitive DNAs."](http://mbe.oxfordjournals.org/content/28/10/2843) Molecular Biology and Evolution 28(10): 2843-2854.
+**Renny-Byfield, S.**, M. Chester, A. Kovařík, S. C. Le Comber, M.-A. Grandbastien, M. Deloger, R. A. Nichols, J. Macas, P. Novák, M. W. Chase and A. R. Leitch (2011). ["Next generation sequencing reveals genome downsizing in allotetraploidNicotiana tabacum, predominantly through the elimination of paternally derived repetitive DNAs."](http://mbe.oxfordjournals.org/content/28/10/2843) <b href="#">Molecular Biology and Evolution 28(10): 2843-2854.<img src="img/rennybyfield2011.jpg" width="300" /></b>
 
 **2010**
 
-Koukalova, B., A. P. Moraes, **S. Renny-Byfield**, R. Matyasek, A. R. Leitch and A. Kovarik (2010). ["Fall and rise of satellite repeats in allopolyploids of Nicotiana over c. 5 million years."](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03101.x/abstract) New Phytologist 186(1): 148-160.
+falllRise
 
-**Renny-Byfield, S.**, M. Ainouche, I. J. Leitch, K. Y. Lim, S. C. Le Comber and A. R. Leitch (2010). ["Flow cytometry and GISH reveal mixed ploidy populations and Spartina nonaploids with genomes of S. alterniflora and S. maritima origin."](http://aob.oxfordjournals.org/content/105/4/527.long) Annals of Botany 105(4): 527-533.
+Koukalova, B., A. P. Moraes, **S. Renny-Byfield**, R. Matyasek, A. R. Leitch and A. Kovarik (2010). ["Fall and rise of satellite repeats in allopolyploids of Nicotiana over c. 5 million years."](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03101.x/abstract) <b href="#">New Phytologist 186(1): 148-160.<img src="img/fallRise.jpg" width="300" /></b>
+
+**Renny-Byfield, S.**, M. Ainouche, I. J. Leitch, K. Y. Lim, S. C. Le Comber and A. R. Leitch (2010). ["Flow cytometry and GISH reveal mixed ploidy populations and Spartina nonaploids with genomes of S. alterniflora and S. maritima origin."](http://aob.oxfordjournals.org/content/105/4/527.long) <b href="#">Annals of Botany 105(4): 527-533.<img src="img/yoong2010.jpg" width="300" /></b>
 
 
 ### Submitted
