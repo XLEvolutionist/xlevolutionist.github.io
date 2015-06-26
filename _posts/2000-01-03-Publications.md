@@ -25,11 +25,11 @@ Masonbrink, R. E., J. P. Gallagher, J. J. Jareczek, **S. Renny-Byfield**, C. E. 
 
 **2013**
 
-**Renny-Byfield, S.**, A. Kovarik, L. J. Kelly, J. Macas, P. Novak, M. W. Chase, R. A. Nichols, M. R. Pancholi, M.-A. Grandbastien and A. R. Leitch (2013). ["Diploidization and genome size change in allopolyploids is associated with differential dynamics of low- and high-copy sequences."](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12168/abstract) <b href="#">The Plant Journal 74(5): 829-839.<img src="img/rennybyfieldTPJ.jpg" width="300" /></b>
+**Renny-Byfield, S.**, A. Kovarik, L. J. Kelly, J. Macas, P. Novak, M. W. Chase, R. A. Nichols, M. R. Pancholi, M.-A. Grandbastien and A. R. Leitch (2013). ["Diploidization and genome size change in allopolyploids is associated with differential dynamics of low- and high-copy sequences."](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12168/abstract) <b href="#">The Plant Journal 74(5): 829-839.<img src="img/rennybyfieldTPJ.pdf" width="300" /></b>
 
 **2012**
 
-Buggs, R. J., **S. Renny-Byfield**, M. Chester, I. E. Jordan-Thaden, L. F. Viccini, S. Chamala, A. R. Leitch, P. S. Schnable, W. B. Barbazuk, P. S. Soltis and D. E. Soltis (2012). ["Next-generation sequencing and genome evolution in allopolyploids."](http://www.amjbot.org/content/99/2/372.full.pdf+html) American Journal of Botany 99: 372-382.
+Buggs, R. J., **S. Renny-Byfield**, M. Chester, I. E. Jordan-Thaden, L. F. Viccini, S. Chamala, A. R. Leitch, P. S. Schnable, W. B. Barbazuk, P. S. Soltis and D. E. Soltis (2012). ["Next-generation sequencing and genome evolution in allopolyploids."](http://www.amjbot.org/content/99/2/372.full.pdf+html) <b href="#">American Journal of Botany 99: 372-382.<img src="img/buggs2012.jpg" width="300" /></b>
 
 Kelly, L. J., A. R. Leitch, M. F. Fay, **S. Renny-Byfield**, J. Pellicer, J. Macas and I. J. Leitch (2012). ["Why sizereallymatters when sequencing plant genomes."](http://www.tandfonline.com/doi/abs/10.1080/17550874.2012.716868) Plant Ecology and Diversity 5(4): 415-425.
 
