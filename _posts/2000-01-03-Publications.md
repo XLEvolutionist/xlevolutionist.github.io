@@ -33,11 +33,11 @@ Buggs, R. J., **S. Renny-Byfield**, M. Chester, I. E. Jordan-Thaden, L. F. Vicci
 
 Kelly, L. J., A. R. Leitch, M. F. Fay, **S. Renny-Byfield**, J. Pellicer, J. Macas and I. J. Leitch (2012). ["Why sizereallymatters when sequencing plant genomes."](http://www.tandfonline.com/doi/abs/10.1080/17550874.2012.716868) Plant Ecology and Diversity 5(4): 415-425.
 
-Matyasek, R., **S. Renny-Byfield**, J. Fulnecek, J. Macas, M.-A. Grandbastien, R. Nichols, A. Leitch and A. Kovarik (2012). ["Next generation sequencing analysis reveals a relationship between rDNA unit diversity and locus number in Nicotiana diploids."](http://www.biomedcentral.com/1471-2164/13/722) <b href="#">BMC Genomics 13: 722.<img src="img/maty2012.jpg" width="300" /></b>
+Matyasek, R., **S. Renny-Byfield**, J. Fulnecek, J. Macas, M.-A. Grandbastien, R. Nichols, A. Leitch and A. Kovarik (2012). ["Next generation sequencing analysis reveals a relationship between rDNA unit diversity and locus number in Nicotiana diploids."](http://www.biomedcentral.com/1471-2164/13/722) <b href="#">BMC Genomics 13: 722.<img src="img/Maty2012.jpg" width="300" /></b>
 
 **Renny-Byfield, S.** (2012). Evolution of repetitive DNA in angiosperms: Examples from Nicotiana allopolyploids, University of London.
 
-**Renny-Byfield, S.**, A. Kovarik, M. Chester, R. A. Nichols, J. Macas, P. Novak and A. R. Leitch (2012). ["Independent, rapid and targeted loss of a highly repetitive DNA sequence derived from the paternal genome donor in natural and syntheticNicotiana tabacum."](http://dx.doi.org/10.1371/journal.pone.0036963) <b href="#">PLoS One 7(5): e36963.<img src="img/maty2012.jpg" width="300" /></b>
+**Renny-Byfield, S.**, A. Kovarik, M. Chester, R. A. Nichols, J. Macas, P. Novak and A. R. Leitch (2012). ["Independent, rapid and targeted loss of a highly repetitive DNA sequence derived from the paternal genome donor in natural and syntheticNicotiana tabacum."](http://dx.doi.org/10.1371/journal.pone.0036963) <b href="#">PLoS One 7(5): e36963.<img src="img/rennybyfieldpone.jpg" width="300" /></b>
 
 **2011**
 
