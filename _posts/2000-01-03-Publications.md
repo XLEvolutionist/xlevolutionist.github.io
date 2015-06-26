@@ -11,11 +11,11 @@ style: centre
 
 **2015**
 
-Gong, L., R. E. Masonbrink, C. E. Grover, **S. Renny-Byfield** and J. F. Wendel (2015). ["A Cluster of Recently Inserted Transposable Elements Associated with siRNAs in."](https://dl.sciencesocieties.org/publications/tpg/pdfs/0/0/plantgenome2014.11.0088) The Plant Genome. <b href="#">8 (2)<img src="img/gong2015.jpg" width="300" /></b> 
+Gong, L., R. E. Masonbrink, C. E. Grover, **S. Renny-Byfield** and J. F. Wendel (2015). ["A Cluster of Recently Inserted Transposable Elements Associated with siRNAs in."](https://dl.sciencesocieties.org/publications/tpg/pdfs/0/0/plantgenome2014.11.0088) <b href="#">The Plant Genome. 8 (2)<img src="img/gong2015.jpg" width="300" /></b> 
 
-**Renny-Byfield, S.**, L. Gong, J. P. Gallagher and J. F. Wendel (2015). ["Persistence of Subgenomes in Paleopolyploid Cotton after 60 My of Evolution."](http://mbe.oxfordjournals.org/content/32/4/1063) Molecular biology and evolution 32(4): <b href="#">1063-1071.<img src="img/persistance.jpeg" width="300" /></b>
+**Renny-Byfield, S.**, L. Gong, J. P. Gallagher and J. F. Wendel (2015). ["Persistence of Subgenomes in Paleopolyploid Cotton after 60 My of Evolution."](http://mbe.oxfordjournals.org/content/32/4/1063)  <b href="#">Molecular biology and evolution 32(4):1063-1071.<img src="img/persistance.jpeg" width="300" /></b>
 
-Masonbrink, R. E., J. P. Gallagher, J. J. Jareczek, **S. Renny-Byfield**, C. E. Grover, L. Gong and J. F. Wendel (2014). ["CenH3 evolution in diploids and polyploids of three angiosperm genera."](http://www.biomedcentral.com/1471-2229/14/383) BMC Plant Biology  <b href="#">14(1): 383.<img src="img/masonbrink2014.jpg" width="300" /></b>
+Masonbrink, R. E., J. P. Gallagher, J. J. Jareczek, **S. Renny-Byfield**, C. E. Grover, L. Gong and J. F. Wendel (2014). ["CenH3 evolution in diploids and polyploids of three angiosperm genera."](http://www.biomedcentral.com/1471-2229/14/383) <b href="#"> BMC Plant Biology 14(1): 383.<img src="img/masonbrink2014.jpg" width="300" /></b>
 
 **2014**
 
