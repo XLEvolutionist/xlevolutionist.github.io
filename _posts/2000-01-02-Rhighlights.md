@@ -30,11 +30,11 @@ Previous work has examined gene loss following ancient whole genome duplication 
 
 <div style="float;padding-right: 15px;text-align:center">
     <a href="img/sRNA_TE.tiff"><img src="img/sRNA_TE.tiff" alt="siRNAs" title="siRNA is the ancient sub-genomes of cotton" width="600" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>        
-</div>    
+</div>   
 
 <br/> 
-<br/>
-
+<br/>       
+         
 ### Genetic Drift Simulations
 
 Check out the simple genetic drift simulator. It is written using R and [Shiny](http://shiny.rstudio.com). It is remarkably straight forward to make these reactive plots using R. 
@@ -44,8 +44,8 @@ Check out the simple genetic drift simulator. It is written using R and [Shiny](
 </iframe>   
 
 <br/> 
-<br/>
-
+<br/>       
+         
 ### Repetitive DNA loss in tobacco  
 
 My PhD work focused on the evolution of repetitive DNA in tobacco. Mostly the work focused on the use of fluorescent *in situ* hybridisation (FISH) and a custom build of an NGS clustering algorithm called [RepeatExplorer](http://www.repeatexplorer.org) which identifies and quantifies repeatitive sequences in complex genomes.
