@@ -21,11 +21,11 @@ Masonbrink, R. E., J. P. Gallagher, J. J. Jareczek, **S. Renny-Byfield**, C. E. 
 
 **Renny-Byfield, S.**, J. P. Gallagher, C. E. Grover, E. Szadkowski, J. T. Page, J. A. Udall, X. Wang, A. H. Paterson and J. F. Wendel (2014). ["Ancient Gene Duplicates in Gossypium (Cotton) Exhibit Near-Complete Expression Divergence."](http://www.biomedcentral.com/1471-2229/14/383) <b href="#">Genome Biology and Evolution 6(3): 559-571.<img src="img/rennybyfieldGBE.jpg" width="300" /></b>
 
-**Renny-Byfield, S.** and J. F. Wendel (2014). ["Doubling down on genomes: Polyploidy and crop plants."](http://www.amjbot.org/content/101/10/1711.long) American Journal of Botany 101(10): 1-15.
+**Renny-Byfield, S.** and J. F. Wendel (2014). ["Doubling down on genomes: Polyploidy and crop plants."](http://www.amjbot.org/content/101/10/1711.long) <b href="#">American Journal of Botany 101(10): 1-15.<img src="img/rennybyfieldAJB.jpg" width="300" /></b>
 
 **2013**
 
-**Renny-Byfield, S.**, A. Kovarik, L. J. Kelly, J. Macas, P. Novak, M. W. Chase, R. A. Nichols, M. R. Pancholi, M.-A. Grandbastien and A. R. Leitch (2013). ["Diploidization and genome size change in allopolyploids is associated with differential dynamics of low- and high-copy sequences."](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12168/abstract) The Plant Journal 74(5): 829-839.
+**Renny-Byfield, S.**, A. Kovarik, L. J. Kelly, J. Macas, P. Novak, M. W. Chase, R. A. Nichols, M. R. Pancholi, M.-A. Grandbastien and A. R. Leitch (2013). ["Diploidization and genome size change in allopolyploids is associated with differential dynamics of low- and high-copy sequences."](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12168/abstract) <b href="#">The Plant Journal 74(5): 829-839.<img src="img/rennybyfieldTPJ.jpg" width="300" /></b>
 
 **2012**
 
