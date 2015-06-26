@@ -47,8 +47,6 @@ Kovarik, A., **S. Renny-Byfield** and A. R. Leitch (2011). Evolutionary implicat
 
 **2010**
 
-falllRise
-
 Koukalova, B., A. P. Moraes, **S. Renny-Byfield**, R. Matyasek, A. R. Leitch and A. Kovarik (2010). ["Fall and rise of satellite repeats in allopolyploids of Nicotiana over c. 5 million years."](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03101.x/abstract) <b href="#">New Phytologist 186(1): 148-160.<img src="img/fallRise.jpg" width="300" /></b>
 
 **Renny-Byfield, S.**, M. Ainouche, I. J. Leitch, K. Y. Lim, S. C. Le Comber and A. R. Leitch (2010). ["Flow cytometry and GISH reveal mixed ploidy populations and Spartina nonaploids with genomes of S. alterniflora and S. maritima origin."](http://aob.oxfordjournals.org/content/105/4/527.long) <b href="#">Annals of Botany 105(4): 527-533.<img src="img/yoong2010.jpg" width="300" /></b>
