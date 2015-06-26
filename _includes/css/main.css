@@ -331,8 +331,8 @@ nav ul li:hover, nav ul li.active {
         }
     }
 }
-a img2 { display:none; }
-a:hover img2 { display:block;}
+b img { display:none; }
+b:hover img { display:block;}
 
 
 ​
