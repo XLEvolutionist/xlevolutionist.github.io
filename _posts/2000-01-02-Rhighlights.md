@@ -30,7 +30,9 @@ Previous work has examined gene loss following ancient whole genome duplication 
 
 <div style="float;padding-right: 15px;text-align:center">
     <a href="img/sRNA_TE.tiff"><img src="img/sRNA_TE.tiff" alt="siRNAs" title="siRNA is the ancient sub-genomes of cotton" width="600" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>        
-</div> 
+</div>    
+
+
 
 ### Genetic Drift Simulations
 
