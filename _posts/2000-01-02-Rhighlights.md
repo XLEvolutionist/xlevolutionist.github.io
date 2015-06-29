@@ -9,6 +9,17 @@ runtime: shiny
 <a class="twitter-timeline" href="https://twitter.com/SimonByfield/favorites" data-widget-id="614239767882960897">Favorite Tweets by @SimonByfield</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>   
 
 <br/> 
+<br/> 
+
+### Genetic Drift Simulations
+
+Check out the simple genetic drift simulator. It is written using R and [Shiny](http://shiny.rstudio.com). It is remarkably straight forward to make these reactive plots using R. 
+
+<iframe src="https://xlevolutionist.shinyapps.io/shiny_drift" width="100%" height="720">
+  <p>Your browser does not support iframes.</p>
+</iframe>   
+
+<br/> 
 <br/>       
          
 ### Copy-number variants (CNVs) in wild maize
@@ -40,17 +51,7 @@ Previous work has examined gene loss following ancient whole genome duplication 
 
 <br/> 
 <br/>       
-         
-### Genetic Drift Simulations
-
-Check out the simple genetic drift simulator. It is written using R and [Shiny](http://shiny.rstudio.com). It is remarkably straight forward to make these reactive plots using R. 
-
-<iframe src="https://xlevolutionist.shinyapps.io/shiny_drift" width="100%" height="720">
-  <p>Your browser does not support iframes.</p>
-</iframe>   
-
-<br/> 
-<br/>       
+               
          
 ### Repetitive DNA loss in tobacco  
 
