@@ -30,7 +30,7 @@ Furthermore we note that estimates of [Tajima's D](https://en.wikipedia.org/wiki
 Previous work has examined gene loss following ancient whole genome duplication (WGD; sometimes called [polyploidy](https://en.wikipedia.org/wiki/Polyploid)) in the cotton lineage. I showed that gene loss (sometimes called fractionation) following WGD is ongoing and bias between the duplicate sub-genomes. I further suggested that this process is the result of differing recombination rates between sub-genomes. Read the full story [here](http://mbe.oxfordjournals.org/content/32/4/1063).
 
 <div style="float;padding-right: 15px;text-align:center">
-    <a href="img/cottonWGD.png"><img src="cottonWGD.png" alt="siRNAs" title="siRNA is the ancient sub-genomes of cotton" width="600" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>        
+    <a href="img/cottonWGD.png"><img src="img/cottonWGD.png" alt="cotton WGDs" title="cotton WGDs" width="600" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>        
 </div> 
 
 <div style="float;padding-right: 15px;text-align:center">
