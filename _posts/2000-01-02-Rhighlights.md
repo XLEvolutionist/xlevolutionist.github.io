@@ -10,6 +10,7 @@ runtime: shiny
 
 I generated this graph with some custom code using perl, R and shiny. 
 
+
 The graph is generated using a bibtex file containing all my publications. Using custom perl scripts I extract the number of papers each unique pair of co-authors share. With this information I use the R package `igraph` to generate a graph object detailing the relationships between authors. Following this, I use the R package `shiny` to generate the reactive graph. It should be fairly easy to see that there are really two "groups" of authors, one european and on from the USA (from my PhD and first post-doc respectively). The code will soon be available on github.
 
 <iframe src="https://xlevolutionist.shinyapps.io/simple_couthor_network" width="1100" height="980">
