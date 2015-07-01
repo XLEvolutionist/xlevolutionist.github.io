@@ -13,6 +13,18 @@ runtime: shiny
 <br/> 
 <br/> 
 
+### My Co-Author Network
+
+I generated this graph with some custom code using, perl, R and shiny. 
+
+<iframe src="https://xlevolutionist.shinyapps.io/simple_couthor_network" width="100%" height="720">
+  <p>Your browser does not support iframes.</p>
+</iframe>   
+
+<br/> 
+<br/>
+
+
 ### Genetic Drift Simulations
 
 Check out the simple genetic drift simulator. It is written using R and [Shiny](http://shiny.rstudio.com). It is remarkably straight forward to make these reactive plots using R. 
