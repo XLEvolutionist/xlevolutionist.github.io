@@ -10,7 +10,7 @@ runtime: shiny
 
 I generated this graph with some custom code using, perl, R and shiny. 
 
-<iframe src="https://xlevolutionist.shinyapps.io/simple_couthor_network" width="1000" height="1000">
+<iframe src="https://xlevolutionist.shinyapps.io/simple_couthor_network" width="1100" height="950">
   <p>Your browser does not support iframes.</p>
 </iframe>   
 
