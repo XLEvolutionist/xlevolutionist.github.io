@@ -6,18 +6,11 @@ fa-icon: laptop
 runtime: shiny
 ---
 
-<div style="text-align:center">
-<a class="twitter-timeline" href="https://twitter.com/SimonByfield/favorites" data-widget-id="614239767882960897">Favorite Tweets by @SimonByfield</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>   
-</div>
-
-<br/> 
-<br/> 
-
 ### My Co-Author Network
 
 I generated this graph with some custom code using, perl, R and shiny. 
 
-<iframe src="https://xlevolutionist.shinyapps.io/simple_couthor_network" width="100%" height="720">
+<iframe src="https://xlevolutionist.shinyapps.io/simple_couthor_network" width="1000" height="1000">
   <p>Your browser does not support iframes.</p>
 </iframe>   
 
@@ -71,6 +64,12 @@ Previous work has examined gene loss following ancient whole genome duplication 
 
 My PhD work focused on the evolution of repetitive DNA in tobacco. Mostly the work focused on the use of fluorescent *in situ* hybridisation (FISH) and a custom build of an NGS clustering algorithm called [RepeatExplorer](http://www.repeatexplorer.org) which identifies and quantifies repeatitive sequences in complex genomes.
 
+<div style="text-align:center">
+<a class="twitter-timeline" href="https://twitter.com/SimonByfield/favorites" data-widget-id="614239767882960897">Favorite Tweets by @SimonByfield</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>   
+</div>
+
+<br/> 
+<br/> 
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
